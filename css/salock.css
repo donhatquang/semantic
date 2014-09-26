@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.metro ol.styled > li {
+	font-size: 16pt;
+	font-weight: bold;
+	margin-bottom: 20px;
+	margin-left: 0px;
+}
+.metro ol.styled {
+}	
+
+/*HEADER ICON*/
+
+.metro .input-control.switch input[type="checkbox"]:checked ~ .check {
+	background: #fff;
+}
+
+.content, #content {
+    
+    margin: 0 auto;
+   
+  
+}
+
+h1,h2,h3 {
+	
+  
+
+}
+
+.example .image-container {
+margin: 10px;
+display: inline-block;
+vertical-align: middle;
+}
+
+.metro .image-container > .overlay-fluid {
+    font-size: 12pt;
+}
+.metro .image-container {
+    width: 250px;
+    
+}
+
+/*PREVIEW*/
+#preview {
+    border: 1px  #000;
+    border-style: dashed;
+    overflow-y: auto;
+    overflow-x: hidden;
+    
+}
+
+#preview .image-container {
+    width: 90px;
+    cursor: pointer;
+}
+
+#select-text {
+	padding:10px;
+}
