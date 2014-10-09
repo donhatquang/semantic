@@ -1,7 +1,7 @@
 <?php
 
 // change the following paths if necessary
-$yii=dirname(__FILE__).'/../../../../../Volumes/mac2/framework/php/yii1.1/framework/yii.php';
+$yii = dirname(__FILE__) . '/framework/yii.php';
 //$yii='E:\server_software\yii-1.1.14\framework\yii.php';
 $config=dirname(__FILE__).'/protected/config/main.php';
 
