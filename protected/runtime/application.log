@@ -5507,3 +5507,37 @@ REQUEST_URI=/project/biye/app/?r=videosemantic
 in C:\project\biye\app\protected\models\Semantic.php (63)
 in C:\project\biye\app\protected\controllers\VideoSemanticController.php (17)
 in C:\project\biye\app\index.php (15)
+2014/10/09 14:26:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "compare".' in E:\GitHub\semantic\framework\web\CController.php:484
+Stack trace:
+#0 E:\GitHub\semantic\framework\web\CController.php(271): CController->missingAction('compare')
+#1 E:\GitHub\semantic\framework\web\CWebApplication.php(276): CController->run('compare')
+#2 E:\GitHub\semantic\framework\web\CWebApplication.php(135): CWebApplication->runController('semantic/compar...')
+#3 E:\GitHub\semantic\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 E:\GitHub\semantic\index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=semantic/compare
+---
+2014/10/09 14:26:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "compare".' in E:\GitHub\semantic\framework\web\CWebApplication.php:280
+Stack trace:
+#0 E:\GitHub\semantic\framework\web\CWebApplication.php(135): CWebApplication->runController('compare')
+#1 E:\GitHub\semantic\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 E:\GitHub\semantic\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=compare
+---
+2014/10/09 14:26:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "view3d/compare".' in E:\GitHub\semantic\framework\web\CWebApplication.php:280
+Stack trace:
+#0 E:\GitHub\semantic\framework\web\CWebApplication.php(135): CWebApplication->runController('view3d/compare')
+#1 E:\GitHub\semantic\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 E:\GitHub\semantic\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=view3d/compare
+---
+2014/10/09 14:26:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "view/compare".' in E:\GitHub\semantic\framework\web\CWebApplication.php:280
+Stack trace:
+#0 E:\GitHub\semantic\framework\web\CWebApplication.php(135): CWebApplication->runController('view/compare')
+#1 E:\GitHub\semantic\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 E:\GitHub\semantic\index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=view/compare
+---
