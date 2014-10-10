@@ -1,32 +1,42 @@
+<?php
+$dir = "./images/";
+$file = "test.png";
+
+if (isset($_GET["dir"]) && $_GET["dir"] != "") $dir = $_GET["dir"];
+if (isset($_GET["file"])) $file = $_GET["file"];
+?>
+
 <!--RESEMBLE -->
 <script src="<?php echo Yii::app()->request->baseUrl; ?>/ref/resemble.js"></script>
 
 <!-- semantic -->
 <script src="<?php echo Yii::app()->request->baseUrl; ?>/js/semantic.js"></script>
-        
+
 <script src="<?php echo Yii::app()->request->baseUrl; ?>/js/compare.js"></script>
 <script>
          
-         var fileData = "images/53a8feb3c6eff.png";         
+    var dir = "<?php echo $dir ?>";
+    var fileData = "<?php echo $dir."/".$file ?>";
+
+         console.log(fileData);
 
          //BEGIN
           $(function () {
-            
 
             Compare.AnalyzeRGB(fileData);
             
             //MULTI IMAGE FROM SEMANTIC
             var semanticWord = "from local storage";
 
-            Compare.getSemanticImage(semanticWord);
+            Compare.getSemanticImage(semanticWord, dir);
 
 
             //----------
-            var pic1 = fileData,
-            pic2 = "images/538215adbffef.png";
+            //var pic1 = fileData,
+            //pic2 = "images/538215adbffef.png";
 
            
-            Compare.similarAnalyze(pic1, pic2);
+            //Compare.similarAnalyze(pic1, pic2);
            
         }) 
                          

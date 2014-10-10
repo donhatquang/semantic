@@ -115,11 +115,12 @@ var Compare = Compare || {};
    //-----------------
 
       //GET MULTI
-     var getSemanticImage = function (semantic) {
+     var getSemanticImage = function (semantic, dir) {
       
         var url = _createURL(["semantic","getSemanticImage"]);
         var param = {
-            semantic: semantic
+            semantic: semantic,
+            dir: dir
         };
         
       

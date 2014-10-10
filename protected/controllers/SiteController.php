@@ -43,7 +43,7 @@ class SiteController extends Controller {
             "bg-color" => "bg-gray"
         );
 		
-	$this->render('intro');
+	    $this->render('intro');
     }
 	
 	 /**
@@ -64,7 +64,7 @@ class SiteController extends Controller {
             $this->render('view3d');
 	}
         
-         public function actionCompare() {
+     public function actionCompare() {
         // renders the view file 'protected/views/site/intro.php'
         // using the default layout 'protected/views/layouts/main.php'
              
@@ -83,8 +83,8 @@ class SiteController extends Controller {
         // $result =  $semantic->getSimilarImage($querysign);
                 
                   
-		//OUTPUTm
-            $this->render('compare');
+		//OUTPUT
+        $this->render('compare');
 	}
    
  
@@ -125,9 +125,7 @@ class SiteController extends Controller {
                 "result" => $result
              ));
     }
-    
 
-  
     /**
      * This is the action to handle external exceptions.
      */

@@ -18,7 +18,7 @@ var _createURL = function(url, param) {
         }).join('&');
     }
 
-    var url = "index.php?r="+url.join("/")+"&"+param;
+    var url = "index.php?r="+url.join("/")+param;
 
     return url;
 }

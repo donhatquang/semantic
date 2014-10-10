@@ -183,11 +183,17 @@ class SemanticController extends Controller {
                        
 		  
            $querysign = Yii::app()->request->getParam("semantic");
+           $dir = Yii::app()->request->getParam("dir");
+
+           if ($dir == null) $dir = "./images/";
+
+             //var_dump($dir);
+
+           //if (isset($_GET["dir"]) && $_GET["dir"] != "") $dir = $_GET["dir"];
 
            $semantic = new Semantic("");     
-           $result =  $semantic-> getDirectory("./images/");
+           $result =  $semantic-> getDirectory($dir);
 
-           
                   
             //OUTPUTm
             $this->render('getSemanticImage', array(
