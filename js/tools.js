@@ -11,6 +11,8 @@ var _createURL = function(url, param) {
 
     param = param || "";
 
+    console.log(param);
+
     if (param != "") {
 
         param = Object.keys(param).map(function(key){
@@ -18,7 +20,7 @@ var _createURL = function(url, param) {
         }).join('&');
     }
 
-    var url = "index.php?r="+url.join("/")+param;
+    var url = "index.php?r="+url.join("/")+"&"+param;
 
     return url;
 }

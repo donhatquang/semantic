@@ -120,6 +120,7 @@ var Compare = Compare || {};
         var url = _createURL(["semantic","getSemanticImage"]);
         var param = {
             semantic: semantic,
+
             dir: dir
         };
         

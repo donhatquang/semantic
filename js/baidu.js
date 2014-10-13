@@ -90,7 +90,7 @@ var Baidu = Baidu || {};
             console.log("Title: "+obj.baikeTitle);
             console.log("Content: "+obj.baikeText);
 
-            obj.baikeText = '三维模型是物体的多边形表示，通常用计算机或者其它视频设备进行显示。显示的物体是可以是现实世界的实体，也可以是虚构的物体。任何物理自然界存在的东西都可以用三维模型表示。 三维模型经常用三维建模工具这种专门的软件生成';
+            //obj.baikeText = '三维模型是物体的多边形表示，通常用计算机或者其它视频设备进行显示。显示的物体是可以是现实世界的实体，也可以是虚构的物体。任何物理自然界存在的东西都可以用三维模型表示。 三维模型经常用三维建模工具这种专门的软件生成';
 
             //INIT
             template("#baike-tmpl",".ex-container",{

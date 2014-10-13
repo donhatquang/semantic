@@ -36,11 +36,13 @@ class SiteController extends Controller {
         // renders the view file 'protected/views/site/intro.php'
         // using the default layout 'protected/views/layouts/main.php'
 
+        //$this->layout = false;
+
           $this->header = array(
             "title" => "Settings",
             "icon" => "wrench",
             "header-color" => "dark",
-            "bg-color" => "bg-gray"
+            "bg-color" => "bg-dark"
         );
 		
 	    $this->render('intro');

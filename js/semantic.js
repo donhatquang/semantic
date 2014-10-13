@@ -212,8 +212,8 @@ var Semantic = Semantic || {};
             
       //---------------->
           
-    		//GET BAIDUINFO
-    		Baidu.getBaiduInfo();
+    	//GET BAIDUINFO
+    	Baidu.getBaiduInfo();
       
          return;
     }
@@ -221,7 +221,13 @@ var Semantic = Semantic || {};
     /*PRINT SEMANTIC*/
     var semanticDisplay = function(keyword) {
 
-         //LOOP
+
+        var style = ["Default", "Primary", "Info", "Success", "Warning", "Danger"];
+        var color = style[Math.floor(Math.random()*style.length)];
+
+        console.log(color);
+
+        //LOOP
         $.each(keyword, function (i,item) {
           
           if (item == "") return;
@@ -229,9 +235,8 @@ var Semantic = Semantic || {};
         //--add keyword
           Semantic.semanticData.push(item);
 
-          $("<button/>").attr({
-            class: "button large danger"
-          }).css("margin","10px").text(item).appendTo("#semantic-area .content:first");
+
+          $("<button/>").addClass("button large "+color.toLowerCase()).css("margin","10px").text(item).appendTo("#semantic-area .content:first");
         })
 
         return;

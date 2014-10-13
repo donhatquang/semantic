@@ -5541,3 +5541,113 @@ Stack trace:
 #3 {main}
 REQUEST_URI=/index.php?r=view/compare
 ---
+2014/10/12 09:34:19 [error] [php] opendir(./video/,./video/): The system cannot find the file specified. (code: 2) (E:\GitHub\semantic\protected\models\Semantic.php:58)
+Stack trace:
+#0 E:\GitHub\semantic\framework\web\actions\CInlineAction.php(50): VideoController->actionIndex()
+#1 E:\GitHub\semantic\framework\web\CController.php(309): CInlineAction->runWithParams()
+#2 E:\GitHub\semantic\framework\web\CController.php(287): VideoController->runAction()
+#3 E:\GitHub\semantic\framework\web\CController.php(266): VideoController->runActionWithFilters()
+#4 E:\GitHub\semantic\framework\web\CWebApplication.php(276): VideoController->run()
+#5 E:\GitHub\semantic\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#6 E:\GitHub\semantic\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#7 E:\GitHub\semantic\index.php(14): CWebApplication->run()
+REQUEST_URI=/index.php?r=video/index
+in E:\GitHub\semantic\protected\models\Semantic.php (58)
+in E:\GitHub\semantic\protected\controllers\VideoController.php (17)
+in E:\GitHub\semantic\index.php (14)
+2014/10/12 09:37:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "image=.".' in E:\GitHub\semantic\framework\web\CController.php:484
+Stack trace:
+#0 E:\GitHub\semantic\framework\web\CController.php(271): CController->missingAction('image=.')
+#1 E:\GitHub\semantic\framework\web\CWebApplication.php(276): CController->run('image=.')
+#2 E:\GitHub\semantic\framework\web\CWebApplication.php(135): CWebApplication->runController('semantic/image=...')
+#3 E:\GitHub\semantic\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 E:\GitHub\semantic\index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=semantic/image=./video/caribeen/53cf9d1559c8d.png
+HTTP_REFERER=http://semantic/index.php?r=video/index
+---
+2014/10/12 09:38:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "image=.".' in E:\GitHub\semantic\framework\web\CController.php:484
+Stack trace:
+#0 E:\GitHub\semantic\framework\web\CController.php(271): CController->missingAction('image=.')
+#1 E:\GitHub\semantic\framework\web\CWebApplication.php(276): CController->run('image=.')
+#2 E:\GitHub\semantic\framework\web\CWebApplication.php(135): CWebApplication->runController('semantic/image=...')
+#3 E:\GitHub\semantic\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 E:\GitHub\semantic\index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=semantic/image=./video/caribeen/53cf9d1559c8d.png
+HTTP_REFERER=http://semantic/index.php?r=video/index
+---
+2014/10/12 09:38:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "image=.".' in E:\GitHub\semantic\framework\web\CController.php:484
+Stack trace:
+#0 E:\GitHub\semantic\framework\web\CController.php(271): CController->missingAction('image=.')
+#1 E:\GitHub\semantic\framework\web\CWebApplication.php(276): CController->run('image=.')
+#2 E:\GitHub\semantic\framework\web\CWebApplication.php(135): CWebApplication->runController('semantic/image=...')
+#3 E:\GitHub\semantic\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 E:\GitHub\semantic\index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=semantic/image=./video/caribeen/53cf9d1559c8d.png
+HTTP_REFERER=http://semantic/index.php?r=video/index
+---
+2014/10/12 09:38:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "image=.".' in E:\GitHub\semantic\framework\web\CController.php:484
+Stack trace:
+#0 E:\GitHub\semantic\framework\web\CController.php(271): CController->missingAction('image=.')
+#1 E:\GitHub\semantic\framework\web\CWebApplication.php(276): CController->run('image=.')
+#2 E:\GitHub\semantic\framework\web\CWebApplication.php(135): CWebApplication->runController('semantic/image=...')
+#3 E:\GitHub\semantic\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 E:\GitHub\semantic\index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=semantic/image=./video/caribeen/53cf9d1559c8d.png
+---
+2014/10/12 09:38:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "?image=.".' in E:\GitHub\semantic\framework\web\CController.php:484
+Stack trace:
+#0 E:\GitHub\semantic\framework\web\CController.php(271): CController->missingAction('?image=.')
+#1 E:\GitHub\semantic\framework\web\CWebApplication.php(276): CController->run('?image=.')
+#2 E:\GitHub\semantic\framework\web\CWebApplication.php(135): CWebApplication->runController('semantic/?image...')
+#3 E:\GitHub\semantic\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 E:\GitHub\semantic\index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=semantic/?image=./video/caribeen/53cf9d1559c8d.png
+---
+2014/10/12 09:38:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "?image=.".' in E:\GitHub\semantic\framework\web\CController.php:484
+Stack trace:
+#0 E:\GitHub\semantic\framework\web\CController.php(271): CController->missingAction('?image=.')
+#1 E:\GitHub\semantic\framework\web\CWebApplication.php(276): CController->run('?image=.')
+#2 E:\GitHub\semantic\framework\web\CWebApplication.php(135): CWebApplication->runController('semantic/?image...')
+#3 E:\GitHub\semantic\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 E:\GitHub\semantic\index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=semantic/?image=./video/caribeen/53cf9d1559c8d.png
+---
+2014/10/12 09:41:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "image=.".' in E:\GitHub\semantic\framework\web\CController.php:484
+Stack trace:
+#0 E:\GitHub\semantic\framework\web\CController.php(271): CController->missingAction('image=.')
+#1 E:\GitHub\semantic\framework\web\CWebApplication.php(276): CController->run('image=.')
+#2 E:\GitHub\semantic\framework\web\CWebApplication.php(135): CWebApplication->runController('semantic/image=...')
+#3 E:\GitHub\semantic\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 E:\GitHub\semantic\index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=semantic/image=./video/caribeen/caribeen.png
+HTTP_REFERER=http://semantic/index.php?r=video/index
+---
+2014/10/13 03:00:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "image=.".' in E:\GitHub\semantic\framework\web\CController.php:484
+Stack trace:
+#0 E:\GitHub\semantic\framework\web\CController.php(271): CController->missingAction('image=.')
+#1 E:\GitHub\semantic\framework\web\CWebApplication.php(276): CController->run('image=.')
+#2 E:\GitHub\semantic\framework\web\CWebApplication.php(135): CWebApplication->runController('semantic/image=...')
+#3 E:\GitHub\semantic\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 E:\GitHub\semantic\index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=semantic/image=./video/caribeen/01caribeen.png
+HTTP_REFERER=http://semantic/index.php?r=video
+---
+2014/10/13 03:01:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "image=.".' in E:\GitHub\semantic\framework\web\CController.php:484
+Stack trace:
+#0 E:\GitHub\semantic\framework\web\CController.php(271): CController->missingAction('image=.')
+#1 E:\GitHub\semantic\framework\web\CWebApplication.php(276): CController->run('image=.')
+#2 E:\GitHub\semantic\framework\web\CWebApplication.php(135): CWebApplication->runController('semantic/image=...')
+#3 E:\GitHub\semantic\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 E:\GitHub\semantic\index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=semantic/image=./video/caribeen/01caribeen.png
+HTTP_REFERER=http://semantic/index.php?r=video
+---
