@@ -23,22 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/layouts/main.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="8" selection-start="2273" selection-end="2273" vertical-scroll-proportion="-32.38889" vertical-offset="265" max-vertical-offset="2538">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/site/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="0" selection-start="1193" selection-end="1569" vertical-scroll-proportion="-4.5076923" vertical-offset="571" max-vertical-offset="7317">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#a#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="32" column="0" selection-start="1193" selection-end="1569" vertical-scroll-proportion="0.0" vertical-offset="571" max-vertical-offset="7317">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -46,7 +35,7 @@
       <file leaf-file-name="intro2.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/site/intro2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="10" selection-start="0" selection-end="1932" vertical-scroll-proportion="-13.5" vertical-offset="324" max-vertical-offset="2457">
+            <state line="30" column="10" selection-start="0" selection-end="1932" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="2457">
               <folding />
             </state>
           </provider>
@@ -55,11 +44,8 @@
       <file leaf-file-name="intro.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/site/intro.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="281" selection-end="281" vertical-scroll-proportion="-9.0" vertical-offset="270" max-vertical-offset="2349">
-              <folding>
-                <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#a#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#a#1;n#!!top" expanded="true" />
-              </folding>
+            <state line="22" column="0" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="2349">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -67,7 +53,7 @@
       <file leaf-file-name="VideoController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controllers/VideoController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="37" selection-start="651" selection-end="651" vertical-scroll-proportion="-19.5" vertical-offset="0" max-vertical-offset="4050">
+            <state line="26" column="37" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="4050">
               <folding />
             </state>
           </provider>
@@ -76,7 +62,7 @@
       <file leaf-file-name="compare.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/site/compare.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="4" selection-start="1302" selection-end="1302" vertical-scroll-proportion="-39.75" vertical-offset="0" max-vertical-offset="3726">
+            <state line="53" column="4" selection-start="1302" selection-end="1302" vertical-scroll-proportion="0.0" vertical-offset="1431" max-vertical-offset="3726">
               <folding />
             </state>
           </provider>
@@ -85,17 +71,40 @@
       <file leaf-file-name="SemanticController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controllers/SemanticController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="61" selection-start="2205" selection-end="2205" vertical-scroll-proportion="1.8888888" vertical-offset="2039" max-vertical-offset="7101">
+            <state line="73" column="61" selection-start="2205" selection-end="2205" vertical-scroll-proportion="0.0" vertical-offset="2039" max-vertical-offset="7101">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/semantic/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="107" column="8" selection-start="3206" selection-end="3206" vertical-scroll-proportion="-0.75" vertical-offset="2862" max-vertical-offset="4185">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/views/semantic/index.php">
+        <entry file="file://D:/project/shegs/home/templates/beez3/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="138" column="48" selection-start="4313" selection-end="4313" vertical-scroll-proportion="0.66627496" vertical-offset="3159" max-vertical-offset="4185">
-              <folding />
+            <state line="68" column="0" selection-start="3219" selection-end="3219" vertical-scroll-proportion="0.5067514" vertical-offset="1198" max-vertical-offset="5859">
+              <folding>
+                <element signature="e#6#244#0" expanded="true" />
+                <element signature="n#style#0;n#jdoc:include#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#jdoc:include#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#jdoc:include#2;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#jdoc:include#0;n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#jdoc:include#1;n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#jdoc:include#2;n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#jdoc:include#0;n#nav#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#jdoc:include#1;n#nav#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#jdoc:include#2;n#nav#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#jdoc:include#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#jdoc:include#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#jdoc:include#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -103,7 +112,7 @@
       <file leaf-file-name="Baidu.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/Baidu.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="0" selection-start="912" selection-end="912" vertical-scroll-proportion="-0.47692308" vertical-offset="941" max-vertical-offset="5400">
+            <state line="40" column="0" selection-start="912" selection-end="912" vertical-scroll-proportion="0.0" vertical-offset="1080" max-vertical-offset="5508">
               <folding />
             </state>
           </provider>
@@ -134,6 +143,7 @@
         <option value="$PROJECT_DIR$/views/site/intro2.php" />
         <option value="$PROJECT_DIR$/controllers/SiteController.php" />
         <option value="$PROJECT_DIR$/views/site/intro.php" />
+        <option value="D:/project/shegs/home/templates/beez3/index.php" />
       </list>
     </option>
   </component>
@@ -168,6 +178,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -284,7 +295,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -324,12 +334,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329429" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -341,9 +350,10 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329429" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -365,11 +375,79 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/controllers/SiteController.php">
+    <entry file="file://$PROJECT_DIR$/views/layouts/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="13" selection-start="1981" selection-end="2433" vertical-scroll-proportion="0.0" vertical-offset="267" max-vertical-offset="3969">
+        <state line="53" column="8" selection-start="2273" selection-end="2273" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2538">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/site/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="1193" selection-end="1569" vertical-scroll-proportion="0.0" vertical-offset="571" max-vertical-offset="7317">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/site/intro2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="10" selection-start="0" selection-end="1932" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="2457">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/site/intro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="2349">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/VideoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="37" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="4050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/site/compare.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="4" selection-start="1302" selection-end="1302" vertical-scroll-proportion="0.0" vertical-offset="1431" max-vertical-offset="3726">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/SemanticController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="61" selection-start="2205" selection-end="2205" vertical-scroll-proportion="0.0" vertical-offset="2039" max-vertical-offset="7101">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/semantic/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="138" column="48" selection-start="4313" selection-end="4313" vertical-scroll-proportion="0.0" vertical-offset="3159" max-vertical-offset="4185">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Baidu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="912" selection-end="912" vertical-scroll-proportion="0.0" vertical-offset="1080" max-vertical-offset="5508">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Semantic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="24" selection-start="1152" selection-end="1152" vertical-scroll-proportion="0.0" vertical-offset="1404" max-vertical-offset="2565">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="13" selection-start="1981" selection-end="2433" vertical-scroll-proportion="0.0" vertical-offset="267" max-vertical-offset="3969" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/site/compare.php">
@@ -402,76 +480,90 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/layouts/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="8" selection-start="2273" selection-end="2273" vertical-scroll-proportion="-32.38889" vertical-offset="265" max-vertical-offset="2538">
+        <state line="53" column="8" selection-start="2273" selection-end="2273" vertical-scroll-proportion="0.0" vertical-offset="265" max-vertical-offset="2538">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/site/compare.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="4" selection-start="1302" selection-end="1302" vertical-scroll-proportion="-39.75" vertical-offset="0" max-vertical-offset="3726">
+        <state line="53" column="4" selection-start="1302" selection-end="1302" vertical-scroll-proportion="0.0" vertical-offset="1431" max-vertical-offset="3726">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/site/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="1193" selection-end="1569" vertical-scroll-proportion="-4.5076923" vertical-offset="571" max-vertical-offset="7317">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#a#5;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="32" column="0" selection-start="1193" selection-end="1569" vertical-scroll-proportion="0.0" vertical-offset="571" max-vertical-offset="7317">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/site/intro2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="10" selection-start="0" selection-end="1932" vertical-scroll-proportion="-13.5" vertical-offset="324" max-vertical-offset="2457">
+        <state line="30" column="10" selection-start="0" selection-end="1932" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="2457">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers/SiteController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="10" selection-start="1194" selection-end="1194" vertical-scroll-proportion="-15.0" vertical-offset="486" max-vertical-offset="4023">
-          <folding />
-        </state>
+        <state line="38" column="10" selection-start="1194" selection-end="1194" vertical-scroll-proportion="-15.0" vertical-offset="486" max-vertical-offset="4023" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/site/intro.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="281" selection-end="281" vertical-scroll-proportion="-9.0" vertical-offset="270" max-vertical-offset="2349">
-          <folding>
-            <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#div#0;n#div#0;n#a#1;n#!!top" expanded="true" />
-          </folding>
+        <state line="22" column="0" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="2349">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers/VideoController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="37" selection-start="651" selection-end="651" vertical-scroll-proportion="-19.5" vertical-offset="0" max-vertical-offset="4050">
+        <state line="26" column="37" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="4050">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/models/Baidu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="0" selection-start="912" selection-end="912" vertical-scroll-proportion="-0.47692308" vertical-offset="941" max-vertical-offset="5400">
+        <state line="40" column="0" selection-start="912" selection-end="912" vertical-scroll-proportion="0.0" vertical-offset="1080" max-vertical-offset="5508">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers/SemanticController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="61" selection-start="2205" selection-end="2205" vertical-scroll-proportion="1.8888888" vertical-offset="2039" max-vertical-offset="7101">
+        <state line="73" column="61" selection-start="2205" selection-end="2205" vertical-scroll-proportion="0.0" vertical-offset="2039" max-vertical-offset="7101">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/semantic/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="138" column="48" selection-start="4313" selection-end="4313" vertical-scroll-proportion="0.66627496" vertical-offset="3159" max-vertical-offset="4185">
+        <state line="107" column="8" selection-start="3206" selection-end="3206" vertical-scroll-proportion="-0.75" vertical-offset="2862" max-vertical-offset="4185">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/project/shegs/home/templates/beez3/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="0" selection-start="3219" selection-end="3219" vertical-scroll-proportion="0.5067514" vertical-offset="1198" max-vertical-offset="5859">
+          <folding>
+            <element signature="e#6#244#0" expanded="true" />
+            <element signature="n#style#0;n#jdoc:include#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#jdoc:include#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#jdoc:include#2;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#jdoc:include#0;n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#jdoc:include#1;n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#jdoc:include#2;n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#jdoc:include#0;n#nav#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#jdoc:include#1;n#nav#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#jdoc:include#2;n#nav#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#jdoc:include#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#jdoc:include#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#jdoc:include#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
