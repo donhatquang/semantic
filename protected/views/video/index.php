@@ -140,7 +140,7 @@
     }
 </style>
 <!-- Header -->
-<div id="header" style="display: none;">
+<div id="header" style="display: block;">
 
     <!-- Inner -->
     <div class="inner">

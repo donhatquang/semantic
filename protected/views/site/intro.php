@@ -35,7 +35,7 @@
     </div>
 </a>
 
-<a href="<?php echo $url = $this->createUrl('settings/screenlock', array()); ?>">
+<a href="<?php echo $url = $this->createUrl('video/', array()); ?>">
 
     <div class="tile bg-violet double-vertical quadro">
         <div class="tile-content icon">
