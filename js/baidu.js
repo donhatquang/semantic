@@ -56,6 +56,8 @@ var Baidu = Baidu || {};
            
               var text = '';
 
+
+
               //INIT
                 template("#similarpic-tmpl",".ex-container",{
 

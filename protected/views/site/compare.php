@@ -1,6 +1,6 @@
 <?php
-$dir = "./images/";
-$file = "test.png";
+$dir = "./images/model/";
+$file = "flight.jpg";
 
 if (isset($_GET["dir"]) && $_GET["dir"] != "") $dir = $_GET["dir"];
 if (isset($_GET["file"])) $file = $_GET["file"];

@@ -20,7 +20,7 @@
 <script id="similarpic-tmpl" type="x-tmpl-mustache">
                         <a href="#" onclick="Semantic.getSemantic('{{url}}', 'next');">
                         <div class="image-container shadow">
-                          <img src="{{url}}">
+                          <img src="{{url}}" onclick="window.open('{{originURL}}');" rel="{{originURL}}">
                         <div class="overlay-fluid">{{description}}</div></div></a>
                 </script>
 

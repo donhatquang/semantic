@@ -5679,3 +5679,17 @@ REQUEST_URI=/index.php?r=semantic/&image=./images/test/test.png
 in E:\GitHub\semantic\protected\models\Baidu.php (70)
 in E:\GitHub\semantic\protected\controllers\SemanticController.php (67)
 in E:\GitHub\semantic\index.php (14)
+2014/11/05 16:31:09 [error] [php] opendir(./model,./model): The system cannot find the file specified. (code: 2) (E:\GitHub\semantic\protected\models\Semantic.php:58)
+Stack trace:
+#0 E:\GitHub\semantic\framework\web\actions\CInlineAction.php(50): SemanticController->actionGetSemanticImage()
+#1 E:\GitHub\semantic\framework\web\CController.php(309): CInlineAction->runWithParams()
+#2 E:\GitHub\semantic\framework\web\CController.php(287): SemanticController->runAction()
+#3 E:\GitHub\semantic\framework\web\CController.php(266): SemanticController->runActionWithFilters()
+#4 E:\GitHub\semantic\framework\web\CWebApplication.php(276): SemanticController->run()
+#5 E:\GitHub\semantic\framework\web\CWebApplication.php(135): CWebApplication->runController()
+#6 E:\GitHub\semantic\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#7 E:\GitHub\semantic\index.php(14): CWebApplication->run()
+REQUEST_URI=/index.php?r=semantic/getSemanticImage&&semantic=from+local+storage&dir=.%2Fmodel&_=1415205069225
+in E:\GitHub\semantic\protected\models\Semantic.php (58)
+in E:\GitHub\semantic\protected\controllers\SemanticController.php (195)
+in E:\GitHub\semantic\index.php (14)
