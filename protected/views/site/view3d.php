@@ -250,7 +250,7 @@
                 
                 <div align="center">
                     <button class="button large danger">SAVE IMAGE</button>
-                    <button class="button large default" onclick="window.location = '?r=semantic/index';">SEMANTIC</button>
+                    <button class="button large default" onclick="window.location = '?r=semantic/index&image=images/model/flight.jpg';">SEMANTIC</button>
                 
                 </div>
                 
