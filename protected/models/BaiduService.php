@@ -7,27 +7,29 @@
  */
 require('Baidu.php');
 
-class BaiduService extends Baidu {
+class BaiduService extends Baidu
+{
 
     //GET SUGGEST
-    public function getSuggest($kwd) {
+    public function getSuggest($kwd)
+    {
 
         $param = array(
-            "wd"=>  $kwd,
-            "json"=>  1,
-            "p"=>  3,
-            "sid"=>  1444,
-            "bs"=> "javascript%20suggest"
+            "wd" => $kwd,
+            "json" => 1,
+            "p" => 3,
+            "sid" => 1444,
+            "bs" => "javascript%20suggest"
 
         );
 
         // var_dump($param);
 
-        $url = $this-> getSuggestHost()."?".http_build_query($param);
+        $url = $this->getSuggestHost() . "?" . http_build_query($param);
 
         $result = file_get_contents($url);
 
-        $result = str_replace(array("window.baidu.sug(",")",";"),"",$result);
+        $result = str_replace(array("window.baidu.sug(", ")", ";"), "", $result);
 
         //$data = json_decode($result,true);
 
@@ -38,45 +40,44 @@ class BaiduService extends Baidu {
 
 
     //TRANSLATE ANNOTATION
-    public function translate($tags) {
+    public function translate($tags)
+    {
 
+        /*TRANSLATE RESULT*/
         $result = array();
 
         $tags = explode(",", $tags);
 
         //FILTER KEYWORD
         //$filter = $this->filter($tags);
-
-
         //$tags = array_merge($tags, $filter);
-
+        
         $tags = implode("%0A", $tags);
 
-        //var_dump($tags);
-
-        //exit();
-
+        /* BAIDU TRANSLATE API*/
         $apikey = "2ALMz6WqUEcsBg4BS91Eppq3";
-        $url = "http://openapi.baidu.com/public/2.0/bmt/translate?client_id=".$apikey."&from=auto&to=auto&q=".$tags;
+
+        /* BAIDU TRANSLATE URL*/
+        $url = "http://openapi.baidu.com/public/2.0/bmt/translate?client_id=" . $apikey . "&from=auto&to=auto&q=" . $tags;
         //echo $url;
 
         //GET TRANSLATE
         $data = file_get_contents($url);
 
-
         return $data;
     }
 
     //FILTER KEY
-    public function filter($keyword) {
+    public function filter($keyword)
+    {
 
         $tmp = $keyword;
         $filter = array();
 
         //EACH KEY IN ARRAY FOR CHECK DUPLICATE
-        foreach($keyword as $origin) {
+        foreach ($keyword as $origin) {
 
-            foreach($tmp as $checker) {
+            foreach ($tmp as $checker) {
 
                 if ($origin == $checker) continue;
 
@@ -86,7 +87,7 @@ class BaiduService extends Baidu {
 
                     $result = explode($origin, $checker);
 
-                    $filter = array_merge($filter,$result);
+                    $filter = array_merge($filter, $result);
                 }
             }
 

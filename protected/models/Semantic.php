@@ -24,29 +24,29 @@ class Semantic {
         //SAVE IMAGE
         public function saveImage($dir) {
 
+            //定义文件上传的目录路径
             define('UPLOAD_DIR', $dir);
 
             $img = $this-> imgURL;
 
+           //将二维图像从Base64编码格式转换为常见的图像文件格式（默认PNG文件）
             $img = str_replace('data:image/png;base64,', '', $img);
             $img = str_replace(' ', '+', $img);
             $data = base64_decode($img);
 
-                //UNIQUE ID
-                $id = uniqid();
-
+             //UNIQUE ID 产生唯一的文件ID号码
+             $id = uniqid();
             $file = UPLOAD_DIR . $id . '.png';
 
-            /*CHECK DIR*/
-            //echo UPLOAD_DIR;
-
+            //如果没有对应的文件夹则新建一个
             if(file_exists (UPLOAD_DIR) == false)
                 mkdir(UPLOAD_DIR);
 
+            //写入图像的文件到本地服务器
             $success = file_put_contents($file, $data);
 
+            //返回文件写入状态是否成功
             return $success ? $file:"";
-
         }
         
         //GET IMAGE DIRECTORY

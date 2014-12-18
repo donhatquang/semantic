@@ -23,37 +23,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="intro2.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/site/intro2.php">
+      <file leaf-file-name="view3d.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/site/view3d.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="10" selection-start="0" selection-end="1932" vertical-scroll-proportion="0.0" vertical-offset="810" max-vertical-offset="2457">
+            <state line="15" column="0" selection-start="605" selection-end="605" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="7047">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="intro.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/site/intro.php">
+      <file leaf-file-name="SiteController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/SiteController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="2349">
+            <state line="119" column="40" selection-start="3519" selection-end="3519" vertical-scroll-proportion="-12.338462" vertical-offset="2411" max-vertical-offset="4023">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VideoController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/controllers/VideoController.php">
+      <file leaf-file-name="BaiduService.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/BaiduService.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="37" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="4050">
+            <state line="53" column="8" selection-start="1017" selection-end="1017" vertical-scroll-proportion="-0.0" vertical-offset="1431" max-vertical-offset="2835">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="compare.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Baidu.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/Baidu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="11" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="5643">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Semantic.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/models/Semantic.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="49" column="9" selection-start="437" selection-end="1196" vertical-scroll-proportion="0.78939277" vertical-offset="188" max-vertical-offset="2457">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="compare.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/site/compare.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="2" selection-start="1436" selection-end="1436" vertical-scroll-proportion="0.21137586" vertical-offset="1210" max-vertical-offset="3726">
+            <state line="62" column="2" selection-start="1522" selection-end="1522" vertical-scroll-proportion="0.0" vertical-offset="1674" max-vertical-offset="3726">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/layouts/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="8" selection-start="2273" selection-end="2273" vertical-scroll-proportion="0.0" vertical-offset="1431" max-vertical-offset="2538">
               <folding />
             </state>
           </provider>
@@ -62,7 +89,16 @@
       <file leaf-file-name="SemanticController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controllers/SemanticController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="61" selection-start="2205" selection-end="2205" vertical-scroll-proportion="0.0" vertical-offset="1971" max-vertical-offset="7101">
+            <state line="166" column="11" selection-start="4485" selection-end="4485" vertical-scroll-proportion="0.0" vertical-offset="4482" max-vertical-offset="7101">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/site/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="0" selection-start="1193" selection-end="1569" vertical-scroll-proportion="0.0" vertical-offset="864" max-vertical-offset="7317">
               <folding />
             </state>
           </provider>
@@ -72,42 +108,6 @@
         <entry file="file://$PROJECT_DIR$/views/semantic/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="22" column="101" selection-start="1009" selection-end="1009" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="4185">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://D:/project/shegs/home/templates/beez3/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="22" selection-start="3726" selection-end="3726" vertical-scroll-proportion="0.0" vertical-offset="1198" max-vertical-offset="5859">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="intro.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/semantic/intro.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2133">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Baidu.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/models/Baidu.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="0" selection-start="912" selection-end="912" vertical-scroll-proportion="0.0" vertical-offset="1080" max-vertical-offset="5508">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Semantic.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/models/Semantic.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="24" selection-start="1152" selection-end="1152" vertical-scroll-proportion="0.0" vertical-offset="1404" max-vertical-offset="2565">
               <folding />
             </state>
           </provider>
@@ -131,6 +131,10 @@
         <option value="D:/project/shegs/home/templates/beez3/index.php" />
         <option value="$PROJECT_DIR$/views/semantic/index.php" />
         <option value="$PROJECT_DIR$/views/site/compare.php" />
+        <option value="$PROJECT_DIR$/views/site/view3d.php" />
+        <option value="$PROJECT_DIR$/models/Baidu.php" />
+        <option value="$PROJECT_DIR$/models/BaiduService.php" />
+        <option value="$PROJECT_DIR$/models/Semantic.php" />
       </list>
     </option>
   </component>
@@ -165,6 +169,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -196,6 +201,10 @@
               <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="video" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -208,10 +217,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -261,7 +266,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
+              <option name="myItemId" value="models" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -281,13 +286,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="true" />
     <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -328,7 +333,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12578125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -336,11 +341,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329429" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329429" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -362,25 +367,26 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/views/site/intro2.php">
+    <entry file="file://$PROJECT_DIR$/models/Semantic.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="10" selection-start="0" selection-end="1932" vertical-scroll-proportion="0.0" vertical-offset="810" max-vertical-offset="2457">
+        <state line="52" column="24" selection-start="1152" selection-end="1152" vertical-scroll-proportion="0.0" vertical-offset="1404" max-vertical-offset="2565">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/site/intro2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="10" selection-start="0" selection-end="1932" vertical-scroll-proportion="0.0" vertical-offset="810" max-vertical-offset="2457" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/site/intro.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="2349">
-          <folding />
-        </state>
+        <state line="22" column="0" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="2349" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers/VideoController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="37" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="4050">
-          <folding />
-        </state>
+        <state line="26" column="37" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="4050" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/site/compare.php">
@@ -406,16 +412,12 @@
     </entry>
     <entry file="file://D:/project/shegs/home/templates/beez3/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="22" selection-start="3726" selection-end="3726" vertical-scroll-proportion="0.0" vertical-offset="1198" max-vertical-offset="5859">
-          <folding />
-        </state>
+        <state line="80" column="22" selection-start="3726" selection-end="3726" vertical-scroll-proportion="0.0" vertical-offset="1198" max-vertical-offset="5859" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/semantic/intro.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2133">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2133" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/models/Baidu.php">
@@ -439,23 +441,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/site/intro2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="10" selection-start="0" selection-end="1932" vertical-scroll-proportion="0.0" vertical-offset="810" max-vertical-offset="2457">
-          <folding />
-        </state>
+        <state line="30" column="10" selection-start="0" selection-end="1932" vertical-scroll-proportion="0.0" vertical-offset="810" max-vertical-offset="2457" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/site/intro.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="2349">
-          <folding />
-        </state>
+        <state line="22" column="0" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="2349" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers/VideoController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="37" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="4050">
-          <folding />
-        </state>
+        <state line="26" column="37" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="4050" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/site/compare.php">
@@ -481,9 +477,7 @@
     </entry>
     <entry file="file://D:/project/shegs/home/templates/beez3/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="0" selection-start="3219" selection-end="3219" vertical-scroll-proportion="0.0" vertical-offset="1198" max-vertical-offset="5859">
-          <folding />
-        </state>
+        <state line="68" column="0" selection-start="3219" selection-end="3219" vertical-scroll-proportion="0.0" vertical-offset="1198" max-vertical-offset="5859" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/models/Baidu.php">
@@ -512,23 +506,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/site/intro2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="10" selection-start="0" selection-end="1932" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="2457">
-          <folding />
-        </state>
+        <state line="30" column="10" selection-start="0" selection-end="1932" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="2457" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/site/intro.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="2349">
-          <folding />
-        </state>
+        <state line="22" column="0" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="2349" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers/VideoController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="37" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="4050">
-          <folding />
-        </state>
+        <state line="26" column="37" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="4050" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/site/compare.php">
@@ -592,75 +580,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/models/Semantic.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="24" selection-start="1152" selection-end="1152" vertical-scroll-proportion="0.0" vertical-offset="1404" max-vertical-offset="2565">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/layouts/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="8" selection-start="2273" selection-end="2273" vertical-scroll-proportion="0.0" vertical-offset="265" max-vertical-offset="2538" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/site/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="1193" selection-end="1569" vertical-scroll-proportion="0.0" vertical-offset="571" max-vertical-offset="7317" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/site/intro2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="10" selection-start="0" selection-end="1932" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="2457">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/SiteController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="10" selection-start="1194" selection-end="1194" vertical-scroll-proportion="-15.0" vertical-offset="486" max-vertical-offset="4023" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/site/intro.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="2349">
-          <folding />
-        </state>
+        <state line="30" column="10" selection-start="0" selection-end="1932" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="2457" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers/VideoController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="37" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="4050">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/Baidu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="0" selection-start="912" selection-end="912" vertical-scroll-proportion="0.0" vertical-offset="1080" max-vertical-offset="5508">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/SemanticController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="61" selection-start="2205" selection-end="2205" vertical-scroll-proportion="0.0" vertical-offset="2039" max-vertical-offset="7101">
-          <folding />
-        </state>
+        <state line="26" column="37" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="4050" />
       </provider>
     </entry>
     <entry file="file://D:/project/shegs/home/templates/beez3/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="22" selection-start="3726" selection-end="3726" vertical-scroll-proportion="0.0" vertical-offset="1198" max-vertical-offset="5859">
-          <folding />
-        </state>
+        <state line="80" column="22" selection-start="3726" selection-end="3726" vertical-scroll-proportion="0.0" vertical-offset="1198" max-vertical-offset="5859" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/semantic/intro.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2133">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2133" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/semantic/index.php">
@@ -672,7 +609,73 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/site/compare.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="2" selection-start="1436" selection-end="1436" vertical-scroll-proportion="0.21137586" vertical-offset="1210" max-vertical-offset="3726">
+        <state line="62" column="2" selection-start="1522" selection-end="1522" vertical-scroll-proportion="0.0" vertical-offset="1210" max-vertical-offset="3726">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layouts/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="8" selection-start="2273" selection-end="2273" vertical-scroll-proportion="0.0" vertical-offset="265" max-vertical-offset="2538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/site/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="1193" selection-end="1569" vertical-scroll-proportion="0.0" vertical-offset="571" max-vertical-offset="7317">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/site/intro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="13" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="648" max-vertical-offset="2349" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1397" column="14" selection-start="24715" selection-end="24721" vertical-scroll-proportion="0.3934181" vertical-offset="37193" max-vertical-offset="58860" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/site/view3d.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="605" selection-end="605" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="7047">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/SemanticController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="166" column="11" selection-start="4485" selection-end="4485" vertical-scroll-proportion="0.0" vertical-offset="4482" max-vertical-offset="7101">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Baidu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="11" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="5643">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/BaiduService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="8" selection-start="1017" selection-end="1017" vertical-scroll-proportion="-0.0" vertical-offset="1431" max-vertical-offset="2835">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="119" column="40" selection-start="3519" selection-end="3519" vertical-scroll-proportion="-12.338462" vertical-offset="2411" max-vertical-offset="4023">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Semantic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="9" selection-start="437" selection-end="1196" vertical-scroll-proportion="0.78939277" vertical-offset="188" max-vertical-offset="2457">
           <folding />
         </state>
       </provider>
